@@ -41,6 +41,10 @@ else if(gissning.equals(rotfrukter[2])){
     svar[2] = rotfrukter[2];
     }
 
+    else{
+        System.out.printLn("fel svar");
+    }
+
 }
 
 
